@@ -1,7 +1,7 @@
 import time
 
 wait_time = 1
-max_retries = 5
+max_retries = 4
 attempts = 0
 
 while attempts < max_retries:
